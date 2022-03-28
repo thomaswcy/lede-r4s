@@ -1,4 +1,5 @@
-- DOMAIN-KEYWORD,netflix,Netflix
+payload:
+  - DOMAIN-KEYWORD,netflix,Netflix
   - DOMAIN-KEYWORD,dualstack.apiproxy-,Netflix
   - DOMAIN-KEYWORD,dualstack.ichnaea-web-,Netflix
   - DOMAIN,api.fast.com,Netflix
